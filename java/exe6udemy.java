@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CalculoAreas {
+public class exe6udemy {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
